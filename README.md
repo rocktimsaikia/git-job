@@ -14,7 +14,7 @@ Thought you guys might like it so here it is.
 Installation
 ------------
 
-`$ npm install -g gitjob-cli`
+`$ npm install -g gitjob`
 
 Docs
 ----
