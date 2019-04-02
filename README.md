@@ -1,6 +1,6 @@
 Github-Job-cli
 ==========
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![David](https://img.shields.io/david/RocktimSaikia/gitjob.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple CLI tool to look for [Github Jobs](https://jobs.github.com) right in your terminal.
 
