@@ -43,11 +43,11 @@ Feel free to submit issues and enhancement requests.
 
 Built With
 ----------
-Node - The whole app is based on node
-Axios - The http client used
-Meow - CLI helper with flags ,input ,arguments etc
-Chalk - Used in styling the cli elements
-Striptags - Used to remove the html tags from a fetched json response.
+* Node - The whole app is based on node
+* Axios - The http client used
+* Meow - CLI helper with flags ,input ,arguments etc
+* Chalk - Used in styling the cli elements
+* Striptags - Used to remove the html tags from a fetched json response.
 
 
 Contributing
