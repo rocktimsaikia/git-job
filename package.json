@@ -6,6 +6,10 @@
   "author": "Rocktim Saikia <rocktimsaikia@protonmail.com>",
   "repository": "https://github.com/RocktimSaikia/github-job-cli",
   "preferGlobal": true,
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
   "bin": {
     "gitjob": "app.js"
   },
