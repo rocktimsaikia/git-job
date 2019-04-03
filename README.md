@@ -10,7 +10,7 @@ Using this tool is a piece of cake :
 This is a simple cli project that i created to teach myself how to build cli apps from complete scratch.
 Thought you guys might like it so here it is.
 
-### [Note that this app usues github job api which does not support job search for some specific locations/cities of few countries.Kepp that in mind]
+### [Note that this app usues github job api which does not support job search for some specific locations/cities of few countries.]
 
 
 
