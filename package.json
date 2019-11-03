@@ -1,9 +1,9 @@
 {
-  "name": "gitjob",
+  "name": "git-job",
   "version": "1.0.0",
   "description": "A cli tool to search for github jobs near you or anywhere",
   "main": "app.js",
-  "author": "Rocktim Saikia <rocktimsaikia@protonmail.com>",
+  "author": "Rocktim Saikia <rocktimsaikia@protonmail.com> (rocktim.now.sh)",
   "repository": "https://github.com/RocktimSaikia/github-job-cli",
   "preferGlobal": true,
   "engines": {
@@ -11,7 +11,7 @@
     "npm": ">=6.0.0"
   },
   "bin": {
-    "gitjob": "app.js"
+    "gitjob": "src/app.js"
   },
   "scripts": {
     "lint": "eslint .",
@@ -20,21 +20,21 @@
   "license": "ISC",
   "homepage": "https://github.com/RocktimSaikia/gitjob-cli#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "chalk": "^2.4.2",
     "meow": "^5.0.0",
     "striptags": "^3.1.1"
   },
   "devDependencies": {
-    "eslint": "^5.3.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0"
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2"
   },
   "keywords": [
-    "githubjob",
+    "github job",
     "cli",
-    "gitjob",
+    "git job",
     "jobs",
-    "jobcli"
+    "job cli"
   ]
 }
